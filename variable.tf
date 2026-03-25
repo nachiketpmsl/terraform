@@ -1,3 +1,7 @@
 variable "region" {
-  type = string
+	type = string
+}
+
+variable "instance_type" {
+	type = string
 }
